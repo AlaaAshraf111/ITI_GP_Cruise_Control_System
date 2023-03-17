@@ -1,34 +1,23 @@
 # ITI_GP_Cruise_Control_System
-Our target is to design a medical App for measuring the percentage of oxygen in the blood. Based on that we operate the oxygen device remotely. 
-### This operation consists of sub_processes as the following:
-1. measure the percentage of oxygen using sensor Max 30100 
-2. send readings and contact with the oxygen device using Wi-Fi 
-3. use "Blynk" App of phones to interface remotely with the ventilator.
-### components:
-1. NodeMCU
-2. Max 30100 Pulse Oximeter Sensor
-3. Blynk App 
+### Features:
+1. Infotainment System using QT
+2. Cruise control (Normal & Adaptive).
+3. Automatic Emergency Braking (AEB)
+4. Light System using led matrix.
+5. Voice command using IOT
 
-“Adaptive Cruise Control with Infotainment System”
-Features:
-1) Infotainment System using QT
-2) Cruise control (Normal & Adaptive).
-3) Automatic Emergency Braking (AEB)
-4) Light System using led matrix.
-5) Voice command using IOT
-
-Used Technologies:
--       STM32F401CC microcontroller (Arm M4 based microprocessor)
--       Raspberry pi 3 (B+)
--       LCD touch screen
--       Ultrasonic sensor
--       DC motors & Motor Driver
-Used IDEs:
--       Qt
--       Eclipse
--       Google home APP
-Description:
-1-    General view of the system:
+### Used Technologies:
+1.       STM32F401CC microcontroller (Arm M4 based microprocessor)
+2.       Raspberry pi 3 (B+)
+3.       LCD touch screen
+4.       Ultrasonic sensor
+5.       DC motors & Motor Driver
+### Used IDEs:
+#### -       Qt
+#### -       Eclipse
+#### -       Google home APP
+### Description:
+####    General view of the system:
 Since safety is valuable and human nature tends to be more comfortable and make life easier,
 Our System is designed to help vehicles maintain a safe following distance and stay within the speed limitations.
 It includes both Normal Cruise Control (NCC) and Adaptive Cruise Control (ACC) types.
