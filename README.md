@@ -7,7 +7,7 @@
 5. Voice command using IOT
 
 ### Used Technologies:
-1. STM32F401CC microcontroller (Arm M4 based microprocessor)
+1. STM32F401CC microcontroller (Arm M4 based microprocessor)[GPIO - RCC - NVIC - TIMER - SYSTICK - USART]
 2. Raspberry pi 3 (B+)
 3. Ultrasonic sensor
 4. DC motors & Motor Driver
