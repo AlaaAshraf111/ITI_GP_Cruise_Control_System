@@ -1,4 +1,4 @@
-# ITI_GP_Cruise_Control_System
+# Adaptive Cruise Control connected to Infotainment System
 ### Features:
 1. Infotainment System using QT
 2. Cruise control (Normal & Adaptive).
